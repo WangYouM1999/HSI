@@ -1,0 +1,17 @@
+203.04890231403988 Training_Time (s)
+6.1956434979802 Test_time (s)
+81.35156379719926 Kappa accuracy (%)
+94.52126380052589 Overall accuracy (%)
+90.47323173373552 Average accuracy (%)
+[84.14724039 96.79922307] Each accuracy (%)
+                   precision    recall  f1-score   support
+
+  cultivated land     0.8523    0.8415    0.8469     43412
+uncultivated land     0.9653    0.9680    0.9666    197702
+
+         accuracy                         0.9452    241114
+        macro avg     0.9088    0.9047    0.9068    241114
+     weighted avg     0.9450    0.9452    0.9451    241114
+
+[[ 36530   6882]
+ [  6328 191374]]
